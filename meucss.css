@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+p {
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+}
+
+h1 { font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+color:#353535;
+}
+
+body {
+	background-color: #F0F5FC;
+	padding-top: 50px;
+}
+
+.col-md-12 {
+				padding-top: 15px;
+				padding-bottom:15px;
+				border: 1px solid #0C385C;
+			}
+			
+.col-md-4 {
+	padding-top: 30px;
+}
